@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_device_cfg_db_8hpp.html" title="Contains declaration of DeviceCfgDb class." alt="" coords="657,92,844,121"/>
+<area shape="rect" id="node34" href="$_tile_type_cfg_db_8cpp.html" title="Contains definition of TileTypeCfgDb class." alt="" coords="892,92,1089,121"/>
+<area shape="rect" id="node36" href="$_tile_type_cfg_db_b_s_8cpp.html" title="Contains binary serialization functions for TileTypeCfgDb class." alt="" coords="1113,83,1276,130"/>
+<area shape="rect" id="node5" href="$bitreverse_8cpp.html" title="Contains the main method of the bitreverse program." alt="" coords="5,275,147,322"/>
+<area shape="rect" id="node7" href="$_cfg_decoder_8hpp.html" title="Contains declaration of CfgDecoder class." alt="" coords="171,188,347,217"/>
+<area shape="rect" id="node12" href="$_correlator_8hpp.html" title="Contains declaration of Correlator class." alt="" coords="608,188,773,217"/>
+<area shape="rect" id="node16" href="$bitcorrelate_8cpp.html" title="Contains the main method of the bitcorrelate program." alt="" coords="797,275,933,322"/>
+<area shape="rect" id="node19" href="$_device_cfg_db_8cpp.html" title="Contains definition of DeviceCfgDb class." alt="" coords="1091,188,1277,217"/>
+<area shape="rect" id="node22" href="$_device_cfg_db_filler_8hpp.html" title="Contains declaration of DeviceCfgDbFiller class." alt="" coords="371,188,584,217"/>
+<area shape="rect" id="node27" href="$_device_cfg_db_stats_8hpp.html" title="Contains declaration of DeviceCfgDbStats class." alt="" coords="848,188,1067,217"/>
+<area shape="rect" id="node32" href="$_device_cfg_db_b_s_8cpp.html" title="Contains binary serialization functions for DeviceCfgDb class." alt="" coords="1301,179,1469,226"/>
+<area shape="rect" id="node10" href="$_cfg_decoder_8cpp.html" title="Contains definition of CfgDecoder class." alt="" coords="171,284,347,313"/>
+<area shape="rect" id="node14" href="$_correlator_8cpp.html" title="Contains definition of Correlator class." alt="" coords="608,284,773,313"/>
+<area shape="rect" id="node25" href="$_device_cfg_db_filler_8cpp.html" title="Contains definition of DeviceCfgDbFiller class." alt="" coords="371,284,584,313"/>
+<area shape="rect" id="node30" href="$_device_cfg_db_stats_8cpp.html" title="Contains definition of DeviceCfgDbStats class." alt="" coords="957,284,1176,313"/>
+</map>

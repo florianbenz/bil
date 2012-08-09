@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_device_registry_b_s_8hpp.html" title="Contains binary serialization functions for DeviceRegistry class." alt="" coords="400,179,581,226"/>
+<area shape="rect" id="node9" href="$_binary_serialization_8hpp.html" title="Contains functions for binary stream reading and writing." alt="" coords="784,101,960,131"/>
+<area shape="rect" id="node30" href="$_device_registry_8hpp.html" title="Contains declaration of DeviceRegistry class." alt="" coords="249,101,441,131"/>
+<area shape="rect" id="node23" href="$_i_o_exception_8hpp.html" title="Contains declaration of IOException class." alt="" coords="1219,188,1397,217"/>
+<area shape="rect" id="node25" href="$_exception_8hpp.html" title="Contains declaration of Exception class." alt="" coords="1221,275,1387,304"/>
+<area shape="rect" id="node38" href="$_device_i_d_8hpp.html" title="Contains declaration of device ID type." alt="" coords="83,188,240,217"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_wire_8hpp.html" title="Contains declaration of Wire class." alt="" coords="164,83,308,112"/>
+<area shape="rect" id="node7" href="$_wire_b_s_8hpp.html" title="Contains binary serialization functions for Wire class." alt="" coords="296,247,461,276"/>
+<area shape="rect" id="node13" href="$_wire_connection_8hpp.html" title="Contains declaration of WireConnection class." alt="" coords="131,160,341,189"/>
+<area shape="rect" id="node17" href="$_wire_connection_b_s_8hpp.html" title="Contains binary serialization functions for WireConnection class." alt="" coords="5,238,192,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_pin_b_s_8hpp.html" title="Contains binary serialization functions for Pin class." alt="" coords="821,169,979,199"/>
+<area shape="rect" id="node9" href="$_binary_serialization_8hpp.html" title="Contains functions for binary stream reading and writing." alt="" coords="463,83,639,112"/>
+<area shape="rect" id="node30" href="$_pin_8hpp.html" title="Contains declaration of Pin class." alt="" coords="832,83,968,112"/>
+<area shape="rect" id="node23" href="$_i_o_exception_8hpp.html" title="Contains declaration of IOException class." alt="" coords="5,169,184,199"/>
+<area shape="rect" id="node25" href="$_exception_8hpp.html" title="Contains declaration of Exception class." alt="" coords="51,256,216,285"/>
+</map>

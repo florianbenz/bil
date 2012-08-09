@@ -1,0 +1,23 @@
+body { background-color:#eee; color:#000; font-family:arial }
+
+#disassemblytable { font-family:monospace }
+#disassemblytable th { padding:0 1em; vertical-align:top; color:#fff; background-color:#000 }
+#disassemblytable td { padding:0 1em; vertical-align:top }
+
+#indexcol { width:85px }
+#ptypecol { width:150px }
+#opcodecol { width:150px }
+#registercol { width:85px }
+#wcountcol { width:85px }
+
+.dummywordclr { background-color:#bbb }
+.buswidthpatternclr { background-color:#9ba }
+.syncwordclr { background-color:#8aa }
+.type1clr { background-color:#fdf }
+.type2clr { background-color:#ddf }
+
+.noopclr { color:#888 }
+.writeopclr { color:#f00 }
+.readopclr { color:#0f0 }
+
+.configregclr { color:#00f }

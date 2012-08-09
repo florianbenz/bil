@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classbil_1_1_buswidth_pattern.html" title="A special pattern for buswidth detection." alt="" coords="5,83,144,112"/>
+<area shape="rect" id="node5" href="$classbil_1_1_dummy_word.html" title="A word of dummy data." alt="" coords="168,83,285,112"/>
+<area shape="rect" id="node7" href="$classbil_1_1_sync_word.html" title="A special synchronization word." alt="" coords="309,83,413,112"/>
+<area shape="rect" id="node9" href="$classbil_1_1_type2_packet.html" title="Type 2 data packet." alt="" coords="437,83,555,112"/>
+<area shape="rect" id="node11" href="$classbil_1_1_type1_packet.html" title="A type 1 packet." alt="" coords="437,160,555,189"/>
+</map>

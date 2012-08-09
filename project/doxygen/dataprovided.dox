@@ -1,0 +1,34 @@
+/**
+\page dataprovided Data provided with BIL
+
+
+\section sdataprovided1 Device data
+For processing bitstreams the BIL applications <i>bit2xml</i>, <i>bitextract</i>,
+and <i>bitreverse</i> need data about the target devices of the bitstreams.
+This data describes the different devices and their configuration addressing
+schemes, resources, configuration bit mappings, et cetera. It can be found in
+the <i>data</i> folder.
+
+Though it can be recreated from scratch (by the applications <i>v5data_gen</i>,
+<i>xdlrc_convert</i>, <i>v5cfgmap_gen</i>, <i>bitcorrelate</i>, as well as the
+proper bitstreams, XDL designs, and XDLRC descriptions), it is included in BIL
+for simplicity (this holds at least for the included x86 BIL applications, as
+binary data files are not necessarily platform independent). Scripts for an
+automatic recreation are also available (see <i>scripts</i> folder).
+
+
+\section sdataprovided2 Test data
+BIL comes with an extensive test base (see <i>test</i> folder) that contains
+bitstreams and their corresponding XDL designs. For every bitstream the
+source ncd file is also present, so that these bitstreams and XDL designs
+can be recreated by using the Xilinx tools. The ncd files stem from one
+reference design (taken from <i>Open Cores</i>, see
+<a href="http://opencores.org/project,mkjpeg">mkjpeg</a>) synthesized for
+the respective target devices.
+
+Also, the output of the BIL applications <i>bit2xml</i>, <i>bitextract</i>,
+<i>bitreverse</i>, and <i>bitcorrelate</i> when operated on that test data
+is included in the testbase (for quick reference and demonstration without
+the need to execute the applications). For performing these test runs on
+your own there are appropriate scripts in the <i>scripts</i> folder.
+*/

@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$bit2xml_args_8hpp.html" title="Contains declaration of bit2xml command line parsing function." alt="" coords="272,198,403,245"/>
+<area shape="rect" id="node13" href="$bit2xml_data_8hpp.html" title="Contains declaration of constants holding the xsl and css stylesheets for use with the bit2xml progra..." alt="" coords="1453,102,1584,149"/>
+<area shape="rect" id="node15" href="$bit2xml_msgs_8hpp.html" title="Contains declaration of text message constants for bit2xml." alt="" coords="1608,102,1739,149"/>
+<area shape="rect" id="node17" href="$_bit_file_data_8hpp.html" title="Contains declaration of BitFileData class." alt="" coords="104,207,248,236"/>
+<area shape="rect" id="node26" href="$_bit_file_reader_8hpp.html" title="Function for reading a bitfile from a stream." alt="" coords="1763,111,1920,140"/>
+<area shape="rect" id="node30" href="$_bit_file_x_m_l_writer_8hpp.html" title="Function for writing bitfile meta data into XML." alt="" coords="427,207,605,236"/>
+<area shape="rect" id="node33" href="$_v5_bitstream_reader_8hpp.html" title="Contains declaration of V5BitstreamReader class." alt="" coords="1211,111,1429,140"/>
+<area shape="rect" id="node73" href="$_v5_bitstream_x_m_l_writer_8hpp.html" title="Contains declaration of V5BitstreamXMLWriter class." alt="" coords="949,111,1187,140"/>
+<area shape="rect" id="node76" href="$_command_line_exception_8hpp.html" title="Contains declaration of CommandLineException class." alt="" coords="424,111,672,140"/>
+<area shape="rect" id="node83" href="$_i_o_exception_8hpp.html" title="Contains declaration of IOException class." alt="" coords="696,111,875,140"/>
+<area shape="rect" id="node86" href="$_x_m_l_writer_8hpp.html" title="Contains declaration of XMLWriter class." alt="" coords="819,207,947,236"/>
+<area shape="rect" id="node35" href="$_bitstream_8hpp.html" title="Contains declaration of Bitstream class." alt="" coords="1383,207,1543,236"/>
+<area shape="rect" id="node43" href="$_v5_bitstream_syntax_checker_8hpp.html" title="Contains declaration of V5BitstreamSyntaxChecker class." alt="" coords="972,198,1164,245"/>
+<area shape="rect" id="node41" href="$_packet_8hpp.html" title="Contains declaration of Packet class." alt="" coords="1009,544,1156,573"/>
+<area shape="rect" id="node45" href="$_v5_packet_visitor_8hpp.html" title="Contains declaration of V5PacketVisitor class." alt="" coords="957,303,1155,332"/>
+<area shape="rect" id="node47" href="$_buswidth_pattern_8hpp.html" title="Contains declaration of BuswidthPattern class." alt="" coords="1055,467,1255,496"/>
+<area shape="rect" id="node50" href="$_dummy_word_8hpp.html" title="Contains declaration of DummyWord class." alt="" coords="793,467,975,496"/>
+<area shape="rect" id="node55" href="$_packet_visitor_8hpp.html" title="Contains declaration of PacketVisitor class." alt="" coords="968,389,1149,419"/>
+<area shape="rect" id="node57" href="$_sync_word_8hpp.html" title="Contains declaration of SyncWord class." alt="" coords="1224,389,1389,419"/>
+<area shape="rect" id="node60" href="$_type1_packet_8hpp.html" title="Contains declaration of Type1Packet class." alt="" coords="579,389,760,419"/>
+<area shape="rect" id="node64" href="$_type2_packet_8hpp.html" title="Contains declaration of Type2Packet class." alt="" coords="313,467,495,496"/>
+<area shape="rect" id="node62" href="$_register_address_8hpp.html" title="Contains packet register address type." alt="" coords="569,467,769,496"/>
+<area shape="rect" id="node70" href="$_packet_opcode_8hpp.html" title="Contains packet opcode enumeration constants and strings." alt="" coords="312,544,501,573"/>
+<area shape="rect" id="node78" href="$_exception_8hpp.html" title="Contains declaration of Exception class." alt="" coords="629,207,795,236"/>
+</map>
