@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_tile_b_s_8hpp.html" title="Contains binary serialization functions for Tile class." alt="" coords="281,160,439,189"/>
+<area shape="rect" id="node9" href="$_binary_serialization_8hpp.html" title="Contains functions for binary stream reading and writing." alt="" coords="528,160,704,189"/>
+<area shape="rect" id="node30" href="$_tile_8hpp.html" title="Contains declaration of Tile class." alt="" coords="223,83,361,112"/>
+<area shape="rect" id="node23" href="$_i_o_exception_8hpp.html" title="Contains declaration of IOException class." alt="" coords="773,247,952,276"/>
+<area shape="rect" id="node25" href="$_exception_8hpp.html" title="Contains declaration of Exception class." alt="" coords="741,333,907,363"/>
+<area shape="rect" id="node33" href="$_primitive_site_8hpp.html" title="Contains declaration of PrimitiveSite class." alt="" coords="67,160,256,189"/>
+<area shape="rect" id="node37" href="$_primitive_site_b_s_8hpp.html" title="Contains binary serialization functions for PrimitiveSite class." alt="" coords="27,238,192,285"/>
+</map>

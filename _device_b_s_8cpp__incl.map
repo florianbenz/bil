@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_device_b_s_8hpp.html" title="Contains binary serialization functions for Device class." alt="" coords="1640,160,1816,189"/>
+<area shape="rect" id="node9" href="$_binary_serialization_8hpp.html" title="Contains functions for binary stream reading and writing." alt="" coords="460,160,636,189"/>
+<area shape="rect" id="node30" href="$_device_8hpp.html" title="Contains declaration of Device class." alt="" coords="1244,83,1398,112"/>
+<area shape="rect" id="node23" href="$_i_o_exception_8hpp.html" title="Contains declaration of IOException class." alt="" coords="458,247,637,276"/>
+<area shape="rect" id="node25" href="$_exception_8hpp.html" title="Contains declaration of Exception class." alt="" coords="465,333,630,363"/>
+<area shape="rect" id="node33" href="$_primitive_type_8hpp.html" title="Contains declaration of PrimitiveType class." alt="" coords="1029,247,1224,276"/>
+<area shape="rect" id="node55" href="$_tile_8hpp.html" title="Contains declaration of Tile class." alt="" coords="788,247,926,276"/>
+<area shape="rect" id="node69" href="$_tile_type_8hpp.html" title="Contains declaration of TileType class." alt="" coords="1450,160,1616,189"/>
+<area shape="rect" id="node35" href="$_primitive_type_b_s_8hpp.html" title="Contains binary serialization functions for PrimitiveType class." alt="" coords="508,411,678,458"/>
+<area shape="rect" id="node39" href="$_element_8hpp.html" title="Contains declaration of Element class." alt="" coords="1186,333,1352,363"/>
+<area shape="rect" id="node47" href="$_pin_8hpp.html" title="Contains declaration of Pin class." alt="" coords="1026,333,1162,363"/>
+<area shape="rect" id="node43" href="$_element_b_s_8hpp.html" title="Contains binary serialization functions for Element class." alt="" coords="1150,420,1337,449"/>
+<area shape="rect" id="node51" href="$_pin_b_s_8hpp.html" title="Contains binary serialization functions for Pin class." alt="" coords="969,420,1126,449"/>
+<area shape="rect" id="node57" href="$_tile_b_s_8hpp.html" title="Contains binary serialization functions for Tile class." alt="" coords="225,420,382,449"/>
+<area shape="rect" id="node61" href="$_primitive_site_8hpp.html" title="Contains declaration of PrimitiveSite class." alt="" coords="762,333,952,363"/>
+<area shape="rect" id="node65" href="$_primitive_site_b_s_8hpp.html" title="Contains binary serialization functions for PrimitiveSite class." alt="" coords="702,411,868,458"/>
+<area shape="rect" id="node71" href="$_tile_type_b_s_8hpp.html" title="Contains binary serialization functions for TileType class." alt="" coords="2684,420,2870,449"/>
+<area shape="rect" id="node75" href="$_p_i_p_8hpp.html" title="Contains declaration of PIP class." alt="" coords="2022,333,2161,363"/>
+<area shape="rect" id="node84" href="$_primitive_site_type_8hpp.html" title="Contains declaration of PrimitiveSiteType class." alt="" coords="1797,238,1962,285"/>
+<area shape="rect" id="node97" href="$_wire_8hpp.html" title="Contains declaration of Wire class." alt="" coords="1461,247,1605,276"/>
+<area shape="rect" id="node78" href="$_p_i_p_b_s_8hpp.html" title="Contains binary serialization functions for PIP class." alt="" coords="2049,420,2206,449"/>
+<area shape="rect" id="node82" href="$_p_i_p_direction_8hpp.html" title="Contains PIPDirection enumeration constants and strings." alt="" coords="2230,420,2420,449"/>
+<area shape="rect" id="node86" href="$_primitive_site_type_b_s_8hpp.html" title="Contains binary serialization functions for PrimitiveSiteType class." alt="" coords="2444,411,2609,458"/>
+<area shape="rect" id="node90" href="$_pin_wire_8hpp.html" title="Contains declaration of PinWire class." alt="" coords="1798,333,1961,363"/>
+<area shape="rect" id="node93" href="$_pin_wire_b_s_8hpp.html" title="Contains binary serialization functions for PinWire class." alt="" coords="1841,420,2025,449"/>
+<area shape="rect" id="node100" href="$_wire_b_s_8hpp.html" title="Contains binary serialization functions for Wire class." alt="" coords="1652,420,1817,449"/>
+<area shape="rect" id="node104" href="$_wire_connection_8hpp.html" title="Contains declaration of WireConnection class." alt="" coords="1428,333,1638,363"/>
+<area shape="rect" id="node107" href="$_wire_connection_b_s_8hpp.html" title="Contains binary serialization functions for WireConnection class." alt="" coords="1441,411,1628,458"/>
+</map>

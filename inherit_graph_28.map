@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classbil_1_1_register.html" title="Abstract base class for packet processor&#39;s registers." alt="" coords="5,165,96,195"/>
+<area shape="rect" id="node3" href="$classbil_1_1_v5_c_m_d_register.html" title="A register for executing commands." alt="" coords="155,5,291,35"/>
+<area shape="rect" id="node5" href="$classbil_1_1_v5_c_r_c_register.html" title="A register for doing cyclic redundancy checks." alt="" coords="156,59,289,88"/>
+<area shape="rect" id="node7" href="$classbil_1_1_v5_f_a_r_register.html" title="A register holding a frame address." alt="" coords="156,112,289,141"/>
+<area shape="rect" id="node9" href="$classbil_1_1_v5_f_d_r_i_register.html" title="A register for storing configuration data." alt="" coords="155,165,291,195"/>
+<area shape="rect" id="node11" href="$classbil_1_1_v5_i_d_c_o_d_e_register.html" title="A register for setting/checking the target device type." alt="" coords="145,219,300,248"/>
+<area shape="rect" id="node13" href="$classbil_1_1_v5_m_f_w_r_register.html" title="Register for use with bitstream compression." alt="" coords="149,272,296,301"/>
+<area shape="rect" id="node15" href="$classbil_1_1_word_register.html" title="A standard register containing a 32 bit word." alt="" coords="161,325,284,355"/>
+</map>

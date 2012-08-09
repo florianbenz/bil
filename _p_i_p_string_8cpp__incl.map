@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_p_i_p_string_8hpp.html" title="Contains functions for converting PIPs to text." alt="" coords="132,83,287,112"/>
+<area shape="rect" id="node7" href="$_p_i_p_8hpp.html" title="Contains declaration of PIP class." alt="" coords="475,237,613,267"/>
+<area shape="rect" id="node19" href="$_wire_8hpp.html" title="Contains declaration of Wire class." alt="" coords="137,160,281,189"/>
+<area shape="rect" id="node11" href="$_p_i_p_b_s_8hpp.html" title="Contains binary serialization functions for PIP class." alt="" coords="485,324,643,353"/>
+<area shape="rect" id="node17" href="$_p_i_p_direction_8hpp.html" title="Contains PIPDirection enumeration constants and strings." alt="" coords="667,324,856,353"/>
+<area shape="rect" id="node22" href="$_wire_b_s_8hpp.html" title="Contains binary serialization functions for Wire class." alt="" coords="5,324,171,353"/>
+<area shape="rect" id="node26" href="$_wire_connection_8hpp.html" title="Contains declaration of WireConnection class." alt="" coords="201,237,412,267"/>
+<area shape="rect" id="node29" href="$_wire_connection_b_s_8hpp.html" title="Contains binary serialization functions for WireConnection class." alt="" coords="195,315,381,362"/>
+</map>

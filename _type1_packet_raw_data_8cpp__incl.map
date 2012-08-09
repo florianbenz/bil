@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_type1_packet_8hpp.html" title="Contains declaration of Type1Packet class." alt="" coords="327,101,508,131"/>
+<area shape="rect" id="node19" href="$_type1_packet_raw_data_8hpp.html" title="Functions for handling type 1 packet raw data." alt="" coords="532,179,713,226"/>
+<area shape="rect" id="node23" href="$_exception_8hpp.html" title="Contains declaration of Exception class." alt="" coords="681,101,847,131"/>
+<area shape="rect" id="node5" href="$_register_address_8hpp.html" title="Contains packet register address type." alt="" coords="103,188,303,217"/>
+<area shape="rect" id="node7" href="$_type2_packet_8hpp.html" title="Contains declaration of Type2Packet class." alt="" coords="327,188,508,217"/>
+<area shape="rect" id="node15" href="$_packet_8hpp.html" title="Contains declaration of Packet class." alt="" coords="5,275,152,304"/>
+<area shape="rect" id="node17" href="$_packet_opcode_8hpp.html" title="Contains packet opcode enumeration constants and strings." alt="" coords="176,275,365,304"/>
+</map>

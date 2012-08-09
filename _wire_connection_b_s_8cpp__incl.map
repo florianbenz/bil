@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_wire_connection_b_s_8hpp.html" title="Contains binary serialization functions for WireConnection class." alt="" coords="5,179,192,226"/>
+<area shape="rect" id="node9" href="$_binary_serialization_8hpp.html" title="Contains functions for binary stream reading and writing." alt="" coords="427,101,603,131"/>
+<area shape="rect" id="node30" href="$_wire_connection_8hpp.html" title="Contains declaration of WireConnection class." alt="" coords="137,101,348,131"/>
+<area shape="rect" id="node23" href="$_i_o_exception_8hpp.html" title="Contains declaration of IOException class." alt="" coords="672,188,851,217"/>
+<area shape="rect" id="node25" href="$_exception_8hpp.html" title="Contains declaration of Exception class." alt="" coords="640,275,805,304"/>
+</map>

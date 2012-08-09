@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_buswidth_pattern_8hpp.html" title="Contains declaration of BuswidthPattern class." alt="" coords="99,160,299,189"/>
+<area shape="rect" id="node5" href="$_packet_8hpp.html" title="Contains declaration of Packet class." alt="" coords="252,237,399,267"/>
+<area shape="rect" id="node7" href="$_dummy_word_8hpp.html" title="Contains declaration of DummyWord class." alt="" coords="373,160,555,189"/>
+<area shape="rect" id="node13" href="$_packet_visitor_8hpp.html" title="Contains declaration of PacketVisitor class." alt="" coords="777,83,959,112"/>
+<area shape="rect" id="node15" href="$_sync_word_8hpp.html" title="Contains declaration of SyncWord class." alt="" coords="5,83,171,112"/>
+<area shape="rect" id="node18" href="$_type1_packet_8hpp.html" title="Contains declaration of Type1Packet class." alt="" coords="572,83,753,112"/>
+<area shape="rect" id="node22" href="$_type2_packet_8hpp.html" title="Contains declaration of Type2Packet class." alt="" coords="579,160,760,189"/>
+<area shape="rect" id="node20" href="$_register_address_8hpp.html" title="Contains packet register address type." alt="" coords="784,160,984,189"/>
+<area shape="rect" id="node30" href="$_packet_opcode_8hpp.html" title="Contains packet opcode enumeration constants and strings." alt="" coords="735,237,924,267"/>
+</map>

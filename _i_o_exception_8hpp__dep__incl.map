@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$bit2xml_8cpp.html" title="Contains the main method of the bit2xml program." alt="" coords="785,83,916,130"/>
+<area shape="rect" id="node5" href="$_bit_file_reader_8cpp.html" title="Function for reading a bitfile from a stream." alt="" coords="940,92,1097,121"/>
+<area shape="rect" id="node7" href="$_bit_file_writer_8cpp.html" title="Function for writing a bitfile to a stream." alt="" coords="1121,92,1273,121"/>
+<area shape="rect" id="node9" href="$_v5_configuration_dump_8cpp.html" title="Functions for dumping V5Configuration contents to a stream." alt="" coords="1297,83,1487,130"/>
+<area shape="rect" id="node11" href="$_i_o_exception_8cpp.html" title="Contains definition of IOException class." alt="" coords="1511,92,1689,121"/>
+<area shape="rect" id="node13" href="$_binary_serialization_8cpp.html" title="Contains functions for binary stream reading and writing." alt="" coords="5,188,181,217"/>
+<area shape="rect" id="node15" href="$_binary_serialization_8hpp.html" title="Contains functions for binary stream reading and writing." alt="" coords="1764,92,1940,121"/>
+<area shape="rect" id="node56" href="$_stream_tokenizer_8cpp.html" title="Contains definition of StreamTokenizer class." alt="" coords="1964,92,2129,121"/>
+<area shape="rect" id="node17" href="$_device_b_s_8cpp.html" title="Contains binary serialization functions for Device class." alt="" coords="205,188,381,217"/>
+<area shape="rect" id="node19" href="$_device_cfg_db_b_s_8cpp.html" title="Contains binary serialization functions for DeviceCfgDb class." alt="" coords="405,179,573,226"/>
+<area shape="rect" id="node21" href="$_device_registry_b_s_8cpp.html" title="Contains binary serialization functions for DeviceRegistry class." alt="" coords="597,179,779,226"/>
+<area shape="rect" id="node23" href="$_element_b_s_8cpp.html" title="Contains binary serialization functions for Element class." alt="" coords="803,188,989,217"/>
+<area shape="rect" id="node25" href="$_pin_b_s_8cpp.html" title="Contains binary serialization functions for Pin class." alt="" coords="1013,188,1171,217"/>
+<area shape="rect" id="node27" href="$_pin_wire_b_s_8cpp.html" title="Contains binary serialization functions for PinWire class." alt="" coords="1195,188,1379,217"/>
+<area shape="rect" id="node29" href="$_p_i_p_bit_value_b_s_8cpp.html" title="Contains binary serialization functions for PIPBitValue class." alt="" coords="1403,179,1568,226"/>
+<area shape="rect" id="node31" href="$_p_i_p_b_s_8cpp.html" title="Contains binary serialization functions for PIP class." alt="" coords="1592,188,1749,217"/>
+<area shape="rect" id="node33" href="$_p_i_p_control_set_b_s_8cpp.html" title="Contains binary serialization functions for PIPControlSet class." alt="" coords="1773,179,1931,226"/>
+<area shape="rect" id="node35" href="$_primitive_site_b_s_8cpp.html" title="Contains binary serialization functions for PrimitiveSite class." alt="" coords="1955,179,2120,226"/>
+<area shape="rect" id="node37" href="$_primitive_site_type_b_s_8cpp.html" title="Contains binary serialization functions for PrimitiveSiteType class." alt="" coords="2144,179,2309,226"/>
+<area shape="rect" id="node39" href="$_primitive_type_b_s_8cpp.html" title="Contains binary serialization functions for PrimitiveType class." alt="" coords="2333,179,2504,226"/>
+<area shape="rect" id="node41" href="$_tile_b_s_8cpp.html" title="Contains binary serialization functions for Tile class." alt="" coords="2528,188,2685,217"/>
+<area shape="rect" id="node43" href="$_tile_type_b_s_8cpp.html" title="Contains binary serialization functions for TileType class." alt="" coords="2709,188,2896,217"/>
+<area shape="rect" id="node45" href="$_tile_type_cfg_db_b_s_8cpp.html" title="Contains binary serialization functions for TileTypeCfgDb class." alt="" coords="2920,179,3083,226"/>
+<area shape="rect" id="node47" href="$_v5_address_layout_b_s_8cpp.html" title="Contains binary serialization functions for V5AddressLayout class." alt="" coords="3107,179,3304,226"/>
+<area shape="rect" id="node49" href="$_v5_cfg_tile_map_b_s_8cpp.html" title="Contains binary serialization functions for V5CfgTileMap class." alt="" coords="3328,179,3501,226"/>
+<area shape="rect" id="node51" href="$_wire_b_s_8cpp.html" title="Contains binary serialization functions for Wire class." alt="" coords="3525,188,3691,217"/>
+<area shape="rect" id="node53" href="$_wire_connection_b_s_8cpp.html" title="Contains binary serialization functions for WireConnection class." alt="" coords="3715,179,3901,226"/>
+</map>
